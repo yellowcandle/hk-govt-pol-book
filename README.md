@@ -1,5 +1,5 @@
-# Starter Book
+# About
 
-This is a book project, with a few example pages.
-
-For guidance on what goes in here, see [bitbooks.cc/docs/book-repository](http://bitbooks.cc/docs/book-repository).
+This is a collection of information for Hong Kong Secondary Students for
+their understanding of the local government structure and the political
+affairs.
