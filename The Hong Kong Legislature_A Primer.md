@@ -7,10 +7,8 @@ The 2016/17 Political Reform Package did not propose any changes regarding to th
 
 ## Allocation of seat in the LegCo
 
-The allocation of seats to different geographical constituencies changes according to the latest population ratio of among the five GCs \(Hong Kong Island, Kowloon East, Kowloon West, New Territories East, and New Territories West\).  
-[Allocation of the Geographical Constituencies for the HKSAR LegCo](https://zh.wikipedia.org/zh-hk/地區直選#.E6.AD.B7.E5.B1.86.E7.AB.8B.E6.B3.95.E6.9C.83.E9.81.B8.E5.8D.80.E8.AD.B0.E5.B8.AD.E6.95.B8.E9.87.8F_.28.E9.A6.99.E6.B8.AF.E5.9B.9E.E6.AD.B8.E5.BE.8C.29)\)  
-The Functional Constituencies comprise of 28 “Traditional Functional Constituencies” and the District Council \(II\) FC.  
-[List of the 28 Traditional Functional Constituencies](http://www.eac.gov.hk/pdf/legco/2016LCE_Report/ch/2016lce_appendix4.pdf)
+The allocation of seats to different geographical constituencies changes according to the latest population ratio of among the five GCs \(Hong Kong Island, Kowloon East, Kowloon West, New Territories East, and New Territories West\).[^1]  
+The Functional Constituencies comprise of 28 “Traditional Functional Constituencies” and the District Council \(II\) FC.[^2]
 
 ## Shortcomings of the current legislature
 
@@ -38,4 +36,8 @@ Article 45 of the Basic Law stipulates that the “ultimate aim is the election 
 [16人自動當選建制派玩晒](http://orientaldaily.on.cc/cnt/news/20120801/00176_011.html)
 
 
+
+[^1]: See also: [Allocation of the Geographical Constituencies for the HKSAR LegCo](https://zh.wikipedia.org/zh-hk/地區直選#.E6.AD.B7.E5.B1.86.E7.AB.8B.E6.B3.95.E6.9C.83.E9.81.B8.E5.8D.80.E8.AD.B0.E5.B8.AD.E6.95.B8.E9.87.8F_.28.E9.A6.99.E6.B8.AF.E5.9B.9E.E6.AD.B8.E5.BE.8C.29)
+
+[^2]: See also: [List of the 28 Traditional Functional Constituencies](http://www.eac.gov.hk/pdf/legco/2016LCE_Report/ch/2016lce_appendix4.pdf)
 
