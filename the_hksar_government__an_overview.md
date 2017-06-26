@@ -11,8 +11,8 @@
 * Chief Executive  
 * Assisted by the Executive Council  
 * 3 Secretaries and 13 Policy Bureaux  
-* \[Organizational Chart of the HKSAR
-  Government\]\([http://www.gov.hk/en/about/govdirectory/govchart/](http://www.gov.hk/en/about/govdirectory/govchart/)\)  
+* [Organizational Chart of the HKSAR](http://www.gov.hk/en/about/govdirectory/govchart/)
+  [Government](http://www.gov.hk/en/about/govdirectory/govchart/)
 
 
 
